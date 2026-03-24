@@ -370,6 +370,7 @@ int main() {
 }
 ```
 #OUTPUT:
+
 <img width="552" height="596" alt="image" src="https://github.com/user-attachments/assets/dabcc1f1-3f13-440f-a8bf-35ec03c5676d" />
 
 # Result:
